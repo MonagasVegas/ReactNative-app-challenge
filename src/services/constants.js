@@ -1,0 +1,1 @@
+export const API_HOST = 'https://my-json-server.typicode.com/FizzmodChallenges/dummy-server-rn/products'
